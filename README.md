@@ -1,2 +1,3 @@
 # hello-world
-a place of stored ideas, resources, and things to discuss with others
+Hi Coders!
+Miguelin here :)  I'm studying Javascript and I thank you all for the mentorship.   
